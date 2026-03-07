@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array value avail or not", "Array value avail or not\Array value avail or not.csproj", "{470665EA-93D3-4A2E-A5B3-8652A08A9B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{470665EA-93D3-4A2E-A5B3-8652A08A9B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470665EA-93D3-4A2E-A5B3-8652A08A9B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470665EA-93D3-4A2E-A5B3-8652A08A9B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470665EA-93D3-4A2E-A5B3-8652A08A9B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCA3991-29A8-4B95-AC24-9BA64EB70D5E}
+	EndGlobalSection
+EndGlobal
