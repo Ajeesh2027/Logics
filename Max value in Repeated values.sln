@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max value in Repeated values", "Max value in Repeated values\Max value in Repeated values.csproj", "{75884C92-1387-4434-ABA3-CCB80E19AD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75884C92-1387-4434-ABA3-CCB80E19AD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75884C92-1387-4434-ABA3-CCB80E19AD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75884C92-1387-4434-ABA3-CCB80E19AD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75884C92-1387-4434-ABA3-CCB80E19AD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779C3C86-4DAE-47FF-AE8B-6EF573B94D42}
+	EndGlobalSection
+EndGlobal
